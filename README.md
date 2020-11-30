@@ -1,7 +1,7 @@
 # FrontEnd PetFinder
 O Front End da Aplicação PetFinder foi desenvolvido utilizando os frameworks ReactJS e TypeScript.
 
-##Como Rodar
+## Como Rodar
 Para iniciar o projeto, instale o Yarn:
 ```bash
 npm install -g yarn
